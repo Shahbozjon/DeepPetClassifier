@@ -12,4 +12,4 @@ the `"DeepPetClassifier"` project is dedicated to the development of an **Artifi
 
 Through the application of deep learning techniques, this project seeks to achieve precise and reliable cat recognition, demonstrating the potential of neural networks in solving real-world image classification challenges.
 
-P.s.: The cat in the model performance checking section is my cat🙃
+P.s. The cat in the model performance checking section is my cat🙃
