@@ -1,5 +1,5 @@
 # DeepPetClassifier
-## DeepPetClassifier is a deep learning project that utilizes neural networks to classify images of cats and dogs.
+## DeepPetClassifier is a deep learning project that utilizes neural networks to classify images of cats.
 **Target:** To build a model that can recognize cats using Artificial Neural Networks.
 
 **About the model:** We use a model here known as `resnet34`, trained using about `1.3` million images.
